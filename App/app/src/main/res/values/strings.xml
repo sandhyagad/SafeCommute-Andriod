@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Safe Commute</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="button_reset">RESET</string>
+    <string name="button_submit">SUBMIT</string>
+    <string name="button_second">Previous</string>
+    <string name="floatingActionButton_google">Google</string>
+    <string name="floatingActionButton_fitbit">Fitbit</string>
+    <string name="textView_login"> WELCOME </string>
+    <string name="textEdit_userName"> User Name </string>
+    <string name="textEdit_password"> Password </string>
+    <string name="textEdit_blank"> </string>
+    <string name="textView_signin"> Sign Up With </string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
